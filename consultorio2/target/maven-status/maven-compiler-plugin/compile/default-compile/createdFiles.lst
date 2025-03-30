@@ -1,0 +1,5 @@
+org\uniquindio\edu\co\poo\model\Paciente.class
+org\uniquindio\edu\co\poo\model\Consultorio.class
+org\uniquindio\edu\co\poo\model\Odontologo.class
+org\uniquindio\edu\co\poo\model\Especialidad.class
+org\uniquindio\edu\co\poo\app\Main.class
